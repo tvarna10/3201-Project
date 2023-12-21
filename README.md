@@ -1,1 +1,1 @@
-# 3201-Project
+# 3201-Project(slot machine simulation)
